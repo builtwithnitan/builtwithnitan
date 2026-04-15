@@ -3,18 +3,12 @@
 
 
 
-<!-- Typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&width=435&lines=Hi+I'm+Nitan+%F0%9F%91%8B;Building+AI+%26+data+systems;MLB+predictions+%7C+Property+tech)](https://git.io/typing-svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=builtwithnitan&show_icons=true&theme=tokyonight&hide_border=true)
 
-<!-- Skill badges -->
-[![My Skills](https://skillicons.dev/icons?i=python,react,supabase,postgres,js,git)](https://skillicons.dev)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=builtwithnitan&layout=compact&theme=tokyonight&hide_border=true)
 
-<!-- GitHub stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=builtwithnitan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<!-- Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=builtwithnitan&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=builtwithnitan.builtwithnitan)
