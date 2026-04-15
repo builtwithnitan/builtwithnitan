@@ -3,12 +3,9 @@
 
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=builtwithnitan&theme=tokyonight&hide_border=true)](https://github.com/builtwithnitan)
+[![GitHub Stats](https://YOUR-VERCEL-APP.vercel.app/api?username=builtwithnitan&theme=tokyonight&hide_border=true)](https://github.com/builtwithnitan)
 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=builtwithnitan&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/builtwithnitan)
-
-
+[![Top Languages](https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=builtwithnitan&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/builtwithnitan)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=builtwithnitan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
